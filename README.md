@@ -72,8 +72,8 @@ As features estão organizadas por **nível de prioridade e impacto no core do s
 | **Elemento**     | **Descrição** |
 |-----------------|--------------|
 | **Card**        | Como jogador, quero responder perguntas de lógica durante a partida para influenciar meu desempenho. |
-| **Conversation** | • Sistema de eventos que dispara perguntas durante o gameplay <br> • Estrutura de dados para armazenar perguntas (array/struct) <br> • Suporte a múltiplas alternativas (2–3 opções) <br> • Associação de dificuldade a cada pergunta |
-| **Confirmation** | • [ ] Perguntas são exibidas em momentos definidos do jogo <br> • [ ] Jogador pode selecionar uma alternativa válida <br> • [ ] Sistema valida a resposta corretamente <br> • [ ] Resultado é persistido no estado do jogo |
+| **Conversation** | • Sistema de eventos que dispara perguntas durante o gameplay <br> • Estrutura de dados para armazenar perguntas (array/struct) <br> • Usuário digita a resposta <br> • Associação de dificuldade a cada pergunta |
+| **Confirmation** | • [ ] Perguntas são exibidas em momentos definidos do jogo <br> • [ ] Jogador consegue digitar a resposta <br> • [ ] Sistema valida a resposta corretamente <br> • [ ] Resultado é persistido no estado do jogo |
 
 ### 4. Sistema de Pontuação
 
