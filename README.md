@@ -20,7 +20,7 @@
 
 <br>
 
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/kRNpjNgWIFwauorghAjyIY/Tectris-Design-System---Primeira-Vers%C3%A3o?node-id=64-3864&p=f&t=RYiLQKL7cvNZuk9i-0)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1629208173322160825)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/69cadb5e6451c7e81081f2af/ATTI17b970f7bb190cbabe4d257b4311c5dfC761625F/projeto-integrado)
 </div>
 
