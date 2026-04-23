@@ -209,20 +209,27 @@ As features estão organizadas por **nível de prioridade e impacto no core do s
 
 
 <div align="center">
-  <h2>Protótipo Inicial (Baixa Fidelidade)</h2>
+  <h2>Protótipo Inicial</h2>
 </div>
 
 O protótipo inicial do Tectris foi desenvolvido com o objetivo de validar conceitos fundamentais de interação, fluxo de navegação e organização da interface, antes da implementação visual definitiva.
 
-A abordagem adotada priorizou **baixa fidelidade**, permitindo rápida iteração, coleta de feedback e ajustes baseados em princípios de Interação Humano-Computador (IHC).
+A abordagem adotada priorizou **alta fidelidade**, permitindo fiel iteração, coleta de feedback e ajustes baseados em princípios de Interação Humano-Computador (IHC).
 
 <div align="center">
-<img src="https://i.imgur.com/xgD7q4s.png" alt="Protótipo Baixa Fidelidade" width="400">
+
+<img src="https://i.imgur.com/FZy8ieA.jpeg" alt="Tela Inicial" width="600">
+<img src="https://i.imgur.com/L0rBGcN.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+<img src="https://i.imgur.com/O48SvYZ.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+<img src="https://i.imgur.com/kl5SFfg.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+<img src="https://i.imgur.com/AJKFPEK.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+<img src="https://i.imgur.com/GhrwawJ.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+<img src="https://i.imgur.com/jwwL8aH.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+<img src="https://i.imgur.com/kPxYGCu.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+<img src="https://i.imgur.com/GfDJEGy.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
+
 </div>
 
-<div align="center">
-<img src="https://i.imgur.com/QRX9Pdy.png" alt="Protótipo Baixa Fidelidade no Console" width="400">
-</div>
 
 ### Objetivos do Protótipo
 
