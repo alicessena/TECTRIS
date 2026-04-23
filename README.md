@@ -20,7 +20,7 @@
 
 <br>
 
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/kRNpjNgWIFwauorghAjyIY/Tectris-Design-System---Primeira-Vers%C3%A3o?node-id=64-3864&p=f&t=RYiLQKL7cvNZuk9i-0)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1629208173322160825)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/69cadb5e6451c7e81081f2af/ATTI17b970f7bb190cbabe4d257b4311c5dfC761625F/projeto-integrado)
 </div>
 
@@ -227,8 +227,9 @@ A abordagem adotada priorizou **alta fidelidade**, permitindo fiel iteração, c
 <img src="https://i.imgur.com/jwwL8aH.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
 <img src="https://i.imgur.com/kPxYGCu.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
 <img src="https://i.imgur.com/GfDJEGy.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
-
 </div>
+
+[Assista ao vídeo de demostração](https://drive.google.com/file/d/1S764_kXx2NakTjTYahh-2aGr6Ac7MYS-/view?usp=sharing)
 
 
 ### Objetivos do Protótipo
