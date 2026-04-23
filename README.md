@@ -227,10 +227,9 @@ A abordagem adotada priorizou **alta fidelidade**, permitindo fiel iteração, c
 <img src="https://i.imgur.com/jwwL8aH.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
 <img src="https://i.imgur.com/kPxYGCu.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
 <img src="https://i.imgur.com/GfDJEGy.jpeg" alt="Protótipo Baixa Fidelidade" width="600">
-<p> Video de demostração:</p>
 </div>
 
-[![Assista ao vídeo](https://i.imgur.com/Jkdiu5q.png)](hhttps://www.youtube.com/watch?v=j4E1a-5-FNw)
+[Assista ao vídeo de demostração](hhttps://www.youtube.com/watch?v=j4E1a-5-FNw)
 
 
 ### Objetivos do Protótipo
