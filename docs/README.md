@@ -44,7 +44,8 @@ A utilização de diagramas UML é importante porque ajuda a organizar as ideias
 
 # Diagrama dos BackLogs
 
-## 1 . Jogar partida local
+## UC01
+UC01. Jogar partida local 
 
 ```mermaid
 stateDiagram-v2
@@ -94,7 +95,8 @@ state Verificar_Vitoria {
 Determinar_Vencedor --> [*]
 ```
 
-## 2. Sistema de queda de blocos
+## UC02
+UC02. Sistema de queda de blocos 
 
 ```mermaid
 stateDiagram-v2
@@ -144,7 +146,8 @@ state Processar_Tabuleiro {
 Gerar_Bloco --> Queda_Ativa
 ```
 
-## 3. Perguntas de lógica durante o jogo
+## UC03
+UC03. Perguntas de lógica durante o jogo
 
 ```mermaid
 stateDiagram-v2
@@ -182,7 +185,8 @@ state Retornar_Partida {
 Retornar_Partida --> [*]
 ```
 
-## 4. Sistema de pontuação
+## UC04
+UC04. Sistema de pontuação baseado na dificuldade da pergunta
 
 ```mermaid
 stateDiagram-v2
@@ -222,7 +226,9 @@ state Exibir_Interface {
 
 Exibir_Interface --> [*]
 ```
-## 5. Penalidade por erro
+
+## UC05
+UC05. Penalidade por erro
 
 ```mermaid
 stateDiagram-v2
@@ -244,7 +250,8 @@ Feedback --> Atualizar_Estado_Jogo
 Atualizar_Estado_Jogo --> [*]
 ```
 
-## 6. Sistema de vitória
+## UC06
+UC06. Sistema de vitória
 
 ```mermaid
 stateDiagram-v2
@@ -264,7 +271,8 @@ Exibir_Vencedor --> Encerrar_Partida
 Encerrar_Partida --> [*]
 ```
 
-## 7. Sistema de tempo nas perguntas
+## UC07
+UC07. Sistema de tempo nas perguntas
 
 ```mermaid
 stateDiagram-v2
@@ -293,7 +301,8 @@ Reiniciar_Rodada --> Exibir_Pergunta
 Reiniciar_Rodada --> [*]
 ```
 
-## 8. Efeito competitivo (impactar adversário)
+## UC08
+UC08. Efeito competitivo (impactar adversário)
 
 ```mermaid
 
@@ -339,7 +348,8 @@ stateDiagram-v2
     EncerrarFluxo --> [*]
 ```
 
-## 9. Interface do jogo (UI básica)
+## UC09
+UC09. Interface gráfica (renderização e atualização)
 
 ```mermaid
 
@@ -379,7 +389,8 @@ stateDiagram-v2
     ExibirTelaFinal --> [*]
 ```
 
-## 10. Banco de perguntas (fixo/local)
+## UC10
+UC10. Banco de perguntas (fixo/local)
 
 ```mermaid
 
@@ -434,7 +445,8 @@ stateDiagram-v2
     OperarNormal --> [*]
 ```
 
-## 11. Aumento de dificuldade progressiva
+## UC11
+UC11. Aumento de dificuldade progressiva
 
 ```mermaid
 
@@ -479,7 +491,8 @@ stateDiagram-v2
 
 ```
 
-## 12. Feedback visual (acerto/erro)
+## UC12
+UC12. Feedback visual para acertos e erros
 
 ```mermaid
 
@@ -521,7 +534,8 @@ stateDiagram-v2
 
 # Backlog do Sistema de Adivinhação
 
-## 1. Sorteio do número secreto
+## UC13
+UC13. Gerar número aleatório e definir intervalo
 
 ```mermaid
 
@@ -558,7 +572,8 @@ stateDiagram-v2
     NovaRodada --> IniciarRodada
 ```
 
-## 2. Loop de adivinhação
+## UC14
+UC14. Loop de adivinhação (entrada, validação, feedback)
 
 ```mermaid
 
@@ -608,7 +623,8 @@ stateDiagram-v2
 
 ```
 
-## 3. Validação da entrada
+## UC15
+UC15. Validação de entrada (número, intervalo)
 
 ```mermaid
 
@@ -649,7 +665,8 @@ stateDiagram-v2
 
 ```
 
-## 4. Feedback: “Muito baixo”
+## UC16
+UC16. Feedback: “Muito baixo”
 
 ```mermaid
 
@@ -684,7 +701,8 @@ stateDiagram-v2
 
 ```
 
-## 5. Feedback: “Muito alto”
+## UC17
+UC17. Feedback: “Muito alto”
 
 ```mermaid  
 
@@ -719,7 +737,8 @@ stateDiagram-v2
 
 ```
 
-## 6. Feedback: “Acertou”
+## UC18
+UC18. Feedback: “Acertou”
 
 ```mermaid
 
