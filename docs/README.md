@@ -44,7 +44,8 @@ A utilização de diagramas UML é importante porque ajuda a organizar as ideias
 
 # Diagrama dos BackLogs
 
-## 1 . Jogar partida local
+## UC01
+UC01. Jogar partida local 
 
 ```mermaid
 stateDiagram-v2
