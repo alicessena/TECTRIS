@@ -47,46 +47,250 @@ A utilização de diagramas UML é importante porque ajuda a organizar as ideias
 ## 1 . Jogar partida local
 
 ```mermaid
+stateDiagram-v2
 
+[*] --> Iniciar_Partida
+
+state Iniciar_Partida {
+    [*] --> Inicializar_Jogadores
+    Inicializar_Jogadores --> Iniciar_Queda_Blocos
+}
+
+Iniciar_Partida --> Pergunta_Ativa
+
+state Pergunta_Ativa {
+    [*] --> Exibir_Pergunta
+    Exibir_Pergunta --> Aguardar_Resposta
+    Aguardar_Resposta --> Capturar_Resposta : primeiro jogador responde
+}
+
+Pergunta_Ativa --> Validar_Resposta
+
+state Validar_Resposta {
+    [*] --> Verificar_Correcao
+
+    Verificar_Correcao --> Adicionar_Pontos : resposta correta
+    Verificar_Correcao --> Aplicar_Penalidade : resposta incorreta
+
+    Adicionar_Pontos --> Atualizar_Pontuacao
+    Aplicar_Penalidade --> Atualizar_Pontuacao
+}
+
+Validar_Resposta --> Feedback
+
+state Feedback {
+    [*] --> Exibir_Feedback
+}
+
+Feedback --> Verificar_Vitoria
+
+state Verificar_Vitoria {
+    [*] --> Checar_Pontuacao
+
+    Checar_Pontuacao --> Pergunta_Ativa : nenhum jogador >=100
+    Checar_Pontuacao --> Determinar_Vencedor : jogador >=100
+}
+
+Determinar_Vencedor --> [*]
 ```
 
 ## 2. Sistema de queda de blocos
 
 ```mermaid
+stateDiagram-v2
 
+[*] --> Iniciar_Partida
+
+Iniciar_Partida --> Gerar_Bloco
+
+state Gerar_Bloco {
+    [*] --> Novo_Bloco
+}
+
+Gerar_Bloco --> Queda_Ativa
+
+state Queda_Ativa {
+
+    [*] --> Bloco_Caindo
+
+    Bloco_Caindo --> Movimento_Lateral : mover esquerda/direita
+    Movimento_Lateral --> Rotacao
+
+    Bloco_Caindo --> Rotacao : sem movimento lateral
+
+    Rotacao --> Atualizar_Rotacao : rotacionar
+    Rotacao --> Verificar_Colisao : sem rotação
+
+    Atualizar_Rotacao --> Verificar_Colisao
+
+    Verificar_Colisao --> Bloco_Caindo : sem colisão
+    Verificar_Colisao --> Fixar_Bloco : colisão
+}
+
+Queda_Ativa --> Processar_Tabuleiro
+
+state Processar_Tabuleiro {
+
+    [*] --> Fixar_Bloco
+
+    Fixar_Bloco --> Verificar_Linha
+
+    Verificar_Linha --> Atualizar_Pontuacao : linha completa
+    Verificar_Linha --> Gerar_Bloco : nenhuma linha completa
+
+    Atualizar_Pontuacao --> Gerar_Bloco
+}
+
+Gerar_Bloco --> Queda_Ativa
 ```
 
 ## 3. Perguntas de lógica durante o jogo
 
 ```mermaid
+stateDiagram-v2
 
+[*] --> Partida_Em_Andamento
+
+Partida_Em_Andamento --> Pergunta_Ativa
+
+state Pergunta_Ativa {
+
+    [*] --> Exibir_Pergunta
+
+    Exibir_Pergunta --> Receber_Resposta
+
+    Receber_Resposta --> Receber_Resposta : entrada inválida
+    Receber_Resposta --> Registrar_Resposta : entrada válida
+}
+
+Pergunta_Ativa --> Avaliar_Resposta
+
+state Avaliar_Resposta {
+
+    [*] --> Verificar_Correcao
+
+    Verificar_Correcao --> Aplicar_Beneficio : resposta correta
+    Verificar_Correcao --> Aplicar_Penalidade : resposta incorreta
+}
+
+Avaliar_Resposta --> Retornar_Partida
+
+state Retornar_Partida {
+    [*] --> Continuar_Jogo
+}
+
+Retornar_Partida --> [*]
 ```
 
 ## 4. Sistema de pontuação
 
 ```mermaid
+stateDiagram-v2
 
+[*] --> Resposta_Correta_Registrada
+
+Resposta_Correta_Registrada --> Avaliar_Dificuldade
+
+state Avaliar_Dificuldade {
+
+    [*] --> Verificar_Dificuldade
+
+    Verificar_Dificuldade --> Pontuacao_Basica : fácil
+    Verificar_Dificuldade --> Pontuacao_Intermediaria : média
+    Verificar_Dificuldade --> Pontuacao_Avancada : difícil
+}
+
+Avaliar_Dificuldade --> Atualizar_Pontos
+
+state Atualizar_Pontos {
+
+    [*] --> Pontuacao_Basica
+    Pontuacao_Basica --> Atualizar_Pontuacao
+
+    [*] --> Pontuacao_Intermediaria
+    Pontuacao_Intermediaria --> Atualizar_Pontuacao
+
+    [*] --> Pontuacao_Avancada
+    Pontuacao_Avancada --> Atualizar_Pontuacao
+}
+
+Atualizar_Pontos --> Exibir_Interface
+
+state Exibir_Interface {
+    [*] --> Mostrar_Pontuacao
+}
+
+Exibir_Interface --> [*]
 ```
-
 ## 5. Penalidade por erro
 
 ```mermaid
+stateDiagram-v2
 
+[*] --> Resposta_Incorreta
 
+Resposta_Incorreta --> Perda_Pontos
+
+Perda_Pontos --> Bloco_Penalidade : penalidade adicional
+Perda_Pontos --> Fluxo_Normal : sem penalidade extra
+
+Bloco_Penalidade --> Impacto_Jogo
+Impacto_Jogo --> Feedback
+
+Fluxo_Normal --> Feedback
+
+Feedback --> Atualizar_Estado_Jogo
+
+Atualizar_Estado_Jogo --> [*]
 ```
 
 ## 6. Sistema de vitória
 
 ```mermaid
+stateDiagram-v2
 
+[*] --> Partida_Em_Andamento
 
+Partida_Em_Andamento --> Atualizar_Pontuacao
+
+Atualizar_Pontuacao --> Partida_Em_Andamento : nenhum jogador com 100 pontos
+
+Atualizar_Pontuacao --> Determinar_Vencedor : P1 ou P2 >=100
+
+Determinar_Vencedor --> Exibir_Vencedor
+
+Exibir_Vencedor --> Encerrar_Partida
+
+Encerrar_Partida --> [*]
 ```
 
 ## 7. Sistema de tempo nas perguntas
 
 ```mermaid
+stateDiagram-v2
 
+[*] --> Exibir_Pergunta
 
+Exibir_Pergunta --> Iniciar_Timer
+
+Iniciar_Timer --> Contagem_Regressiva
+
+Contagem_Regressiva --> Resposta_Recebida : jogador responde
+Contagem_Regressiva --> Tempo_Esgotado : timeout
+
+Resposta_Recebida --> Avaliar_Progresso
+
+Tempo_Esgotado --> Aplicar_Penalidade
+Aplicar_Penalidade --> Avaliar_Progresso
+
+Avaliar_Progresso --> Reduzir_Tempo : progresso aumenta
+Avaliar_Progresso --> Reiniciar_Rodada : sem alteração
+
+Reduzir_Tempo --> Reiniciar_Rodada
+
+Reiniciar_Rodada --> Exibir_Pergunta
+
+Reiniciar_Rodada --> [*]
 ```
 
 ## 8. Efeito competitivo (impactar adversário)
