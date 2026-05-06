@@ -2,20 +2,32 @@
 #define GAME_H
 
 #include "common.h"
+#include "history.h"
 
 typedef struct {
     Color board[BOARD_HEIGHT][BOARD_WIDTH];
+
     Tetromino currentPiece;
     Tetromino nextPiece;
+
     int score;
     int lines;
     int level;
+
     int killLineY; // Linha limite (índice de 0 a BOARD_HEIGHT)
+
     bool gameOver;
+
     float dropTimer;
     float dropInterval;
+
     GameState state;
     ScreenConfig screen;
+
+    // Histórico de partidas
+    MatchHistory history[MAX_HISTORY_RECORDS];
+    int historyCount;
+
 } GameContext;
 
 // Inicialização e Loop
