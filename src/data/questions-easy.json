@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "1. Quantos coracoes um polvo possui?",
+    "answers": [
+      "1) 3",
+      "2) 1",
+      "3) 2",
+      "4) 8"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "2. Quantos litros de sangue possui, em media, um adulto?",
+    "answers": [
+      "1) 1 L",
+      "2) 5 L",
+      "3) 15 L",
+      "4) 30 L"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "3. Quantos dentes tem um adulto saudavel?",
+    "answers": [
+      "1) 24",
+      "2) 28",
+      "3) 32",
+      "4) 40"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "4. Quantos planetas existem no Sistema Solar?",
+    "answers": [
+      "1) 7",
+      "2) 9",
+      "3) 12",
+      "4) 8"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "5. Quantos ossos possui um bebe ao nascer?",
+    "answers": [
+      "1) 300",
+      "2) 120",
+      "3) 206",
+      "4) 500"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "6. Quantos ossos possui um adulto?",
+    "answers": [
+      "1) 156",
+      "2) 206",
+      "3) 300",
+      "4) 412"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "7. Quantos lados tem um hexagono?",
+    "answers": [
+      "1) 5",
+      "2) 8",
+      "3) 6",
+      "4) 10"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "8. Quantos minutos ha em um dia?",
+    "answers": [
+      "1) 720",
+      "2) 1.000",
+      "3) 2.400",
+      "4) 1.440"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "9. Quantas horas tem uma semana?",
+    "answers": [
+      "1) 168",
+      "2) 120",
+      "3) 200",
+      "4) 240"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "10. Quantos satelites naturais a Terra possui?",
+    "answers": [
+      "1) 2",
+      "2) 1",
+      "3) 4",
+      "4) 8"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "11. Quantas casas possui um tabuleiro de xadrez?",
+    "answers": [
+      "1) 32",
+      "2) 48",
+      "3) 64",
+      "4) 100"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "12. Quantos jogadores ha em campo por equipe no futebol?",
+    "answers": [
+      "1) 9",
+      "2) 10",
+      "3) 12",
+      "4) 11"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "13. Quantos continentes existem?",
+    "answers": [
+      "1) 7",
+      "2) 5",
+      "3) 6",
+      "4) 8"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "14. Quantos dias possui um ano bissexto?",
+    "answers": [
+      "1) 365",
+      "2) 366",
+      "3) 367",
+      "4) 364"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "15. Quantas cordas tem um violao tradicional?",
+    "answers": [
+      "1) 4",
+      "2) 5",
+      "3) 6",
+      "4) 8"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "16. Quantos aneis aparecem no simbolo olimpico?",
+    "answers": [
+      "1) 4",
+      "2) 6",
+      "3) 7",
+      "4) 5"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "17. Quantos tentaculos possui uma lula?",
+    "answers": [
+      "1) 10",
+      "2) 8",
+      "3) 12",
+      "4) 16"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "18. Quantos lados possui um octogono?",
+    "answers": [
+      "1) 6",
+      "2) 8",
+      "3) 7",
+      "4) 10"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "19. Quantos segundos ha em uma hora?",
+    "answers": [
+      "1) 600",
+      "2) 1.800",
+      "3) 3.600",
+      "4) 6.000"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "20. Quantos anos durou a construcao da Torre Eiffel?",
+    "answers": [
+      "1) 10",
+      "2) 20",
+      "3) 50",
+      "4) 2"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "21. Quantas patas possui uma aranha?",
+    "answers": [
+      "1) 8",
+      "2) 6",
+      "3) 10",
+      "4) 12"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "22. Quantos metros tem uma piscina olimpica?",
+    "answers": [
+      "1) 25",
+      "2) 50",
+      "3) 40",
+      "4) 100"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "23. Quantos meses tem 28 dias?",
+    "answers": [
+      "1) 1",
+      "2) 2",
+      "3) 12",
+      "4) 6"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "24. Quantas teclas possui um piano padrao?",
+    "answers": [
+      "1) 61",
+      "2) 76",
+      "3) 100",
+      "4) 88"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "25. Quantos fusos horarios existem aproximadamente no mundo?",
+    "answers": [
+      "1) 24",
+      "2) 12",
+      "3) 18",
+      "4) 36"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "26. Quantos anos tem um seculo?",
+    "answers": [
+      "1) 10",
+      "2) 100",
+      "3) 50",
+      "4) 1.000"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "27. Quantos paises existem reconhecidos pela ONU?",
+    "answers": [
+      "1) 120",
+      "2) 250",
+      "3) 193",
+      "4) 300"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "28. Quantas casas existem em um jogo de domino tradicional?",
+    "answers": [
+      "1) 14",
+      "2) 21",
+      "3) 40",
+      "4) 28"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "29. Quantos metros tem a estatua do Cristo Redentor (sem pedestal)?",
+    "answers": [
+      "1) 30",
+      "2) 20",
+      "3) 50",
+      "4) 70"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "30. Quantos anos durou a Primeira Guerra Mundial?",
+    "answers": [
+      "1) 2",
+      "2) 4",
+      "3) 8",
+      "4) 12"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "31. Quantos elementos quimicos existem oficialmente reconhecidos?",
+    "answers": [
+      "1) 92",
+      "2) 100",
+      "3) 118",
+      "4) 150"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "32. Quantos metros tem aproximadamente uma quadra de volei de comprimento?",
+    "answers": [
+      "1) 12",
+      "2) 24",
+      "3) 30",
+      "4) 18"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "33. Quantos jogadores formam uma equipe de volei em quadra?",
+    "answers": [
+      "1) 6",
+      "2) 5",
+      "3) 7",
+      "4) 8"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "34. Quantos cromossomos possui um ser humano saudavel?",
+    "answers": [
+      "1) 23",
+      "2) 46",
+      "3) 32",
+      "4) 92"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "35. Quantos metros mede aproximadamente uma girafa adulta?",
+    "answers": [
+      "1) 2",
+      "2) 3",
+      "3) 5",
+      "4) 10"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "36. Quantos litros de agua um camelo pode beber de uma so vez?",
+    "answers": [
+      "1) 10",
+      "2) 30",
+      "3) 300",
+      "4) 100"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "37. Quantos lados tem um decagono?",
+    "answers": [
+      "1) 10",
+      "2) 8",
+      "3) 9",
+      "4) 12"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "38. Quantos anos dura uma decada?",
+    "answers": [
+      "1) 5",
+      "2) 10",
+      "3) 20",
+      "4) 100"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "39. Quantos dias possui fevereiro em um ano comum?",
+    "answers": [
+      "1) 27",
+      "2) 29",
+      "3) 28",
+      "4) 30"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "40. Quantos metros tem a rede de volei no centro da quadra (masculino)?",
+    "answers": [
+      "1) 1,5 m",
+      "2) 3,5 m",
+      "3) 5 m",
+      "4) 2,43 m"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "41. Quantos tentaculos possui um polvo?",
+    "answers": [
+      "1) 8",
+      "2) 6",
+      "3) 10",
+      "4) 12"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "42. Quantos quilometros tem aproximadamente a Maratona Olimpica?",
+    "answers": [
+      "1) 10 km",
+      "2) 42 km",
+      "3) 21 km",
+      "4) 100 km"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "43. Quantos lados possui um triangulo?",
+    "answers": [
+      "1) 2",
+      "2) 4",
+      "3) 3",
+      "4) 5"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "44. Quantas cartas possui um baralho comum sem coringas?",
+    "answers": [
+      "1) 40",
+      "2) 48",
+      "3) 60",
+      "4) 52"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "45. Quantos satelites naturais possui Marte?",
+    "answers": [
+      "1) 2",
+      "2) 1",
+      "3) 4",
+      "4) 8"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "46. Quantos anos vive, em media, uma tartaruga-gigante?",
+    "answers": [
+      "1) 20",
+      "2) 100",
+      "3) 50",
+      "4) 300"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "47. Quantos graus tem um circulo completo?",
+    "answers": [
+      "1) 180",
+      "2) 270",
+      "3) 360",
+      "4) 720"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "48. Quantos metros mede aproximadamente a cauda de uma baleia-azul adulta?",
+    "answers": [
+      "1) 1 m",
+      "2) 3 m",
+      "3) 15 m",
+      "4) 7 m"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "49. Quantos litros de agua ha aproximadamente no corpo humano?",
+    "answers": [
+      "1) 42 L",
+      "2) 5 L",
+      "3) 15 L",
+      "4) 100 L"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "50. Quantos anos tinha aproximadamente Tutancamon quando morreu?",
+    "answers": [
+      "1) 9",
+      "2) 19",
+      "3) 39",
+      "4) 59"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "51. Quantos olhos uma abelha possui?",
+    "answers": [
+      "1) 2",
+      "2) 3",
+      "3) 5",
+      "4) 8"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "52. Quantos estomagos possui uma vaca?",
+    "answers": [
+      "1) 1",
+      "2) 2",
+      "3) 8",
+      "4) 4"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "53. Quantos metros tem aproximadamente a lingua de uma baleia-azul?",
+    "answers": [
+      "1) 5 m",
+      "2) 1 m",
+      "3) 3 m",
+      "4) 10 m"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "54. Quantos quilometros por hora um guepardo pode atingir?",
+    "answers": [
+      "1) 40 km/h",
+      "2) 110 km/h",
+      "3) 80 km/h",
+      "4) 180 km/h"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "55. Quantos coracoes possui uma minhoca?",
+    "answers": [
+      "1) 1",
+      "2) 3",
+      "3) 5",
+      "4) 10"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "56. Quantos litros de leite uma vaca produz por dia, em media?",
+    "answers": [
+      "1) 3 L",
+      "2) 10 L",
+      "3) 100 L",
+      "4) 30 L"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "57. Quantos dentes possui um tubarao-branco adulto ao mesmo tempo?",
+    "answers": [
+      "1) 300",
+      "2) 50",
+      "3) 100",
+      "4) 1.000"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "58. Quantos metros mede aproximadamente a maior cobra ja registrada?",
+    "answers": [
+      "1) 6 m",
+      "2) 10 m",
+      "3) 9 m",
+      "4) 18 m"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "59. Quantos quilometros a luz percorre em um segundo?",
+    "answers": [
+      "1) 3.000 km",
+      "2) 30.000 km",
+      "3) 300.000 km",
+      "4) 3.000.000 km"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "60. Quantas luas possui Jupiter atualmente?",
+    "answers": [
+      "1) 27",
+      "2) 52",
+      "3) 180",
+      "4) 95"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "61. Quantos dias Marte leva para dar uma volta ao Sol?",
+    "answers": [
+      "1) 687",
+      "2) 365",
+      "3) 500",
+      "4) 1.200"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "62. Quantos quilometros tem aproximadamente o diametro da Lua?",
+    "answers": [
+      "1) 1.000 km",
+      "2) 3.474 km",
+      "3) 10.000 km",
+      "4) 20.000 km"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "63. Em que ano o homem pisou na Lua?",
+    "answers": [
+      "1) 1959",
+      "2) 1979",
+      "3) 1969",
+      "4) 1989"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "64. Quantos minutos a luz do Sol leva para chegar a Terra?",
+    "answers": [
+      "1) 2",
+      "2) 20",
+      "3) 60",
+      "4) 8"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "65. Quantos quilometros tem aproximadamente o Monte Everest?",
+    "answers": [
+      "1) 8,8 km",
+      "2) 4 km",
+      "3) 6 km",
+      "4) 12 km"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "66. Quantos litros de agua doce existem no planeta em porcentagem aproximada?",
+    "answers": [
+      "1) 15%",
+      "2) 3%",
+      "3) 30%",
+      "4) 50%"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "67. Quantos metros mede aproximadamente a maior arvore do mundo?",
+    "answers": [
+      "1) 40 m",
+      "2) 70 m",
+      "3) 116 m",
+      "4) 200 m"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "68. Quantos anos vive, em media, uma rainha das abelhas?",
+    "answers": [
+      "1) 1",
+      "2) 2",
+      "3) 20",
+      "4) 5"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "69. Quantos litros de agua um elefante pode beber por dia?",
+    "answers": [
+      "1) 200 L",
+      "2) 10 L",
+      "3) 50 L",
+      "4) 800 L"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "70. Quantos anos durou a construcao das Piramides de Gize?",
+    "answers": [
+      "1) 5",
+      "2) 20",
+      "3) 100",
+      "4) 300"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "71. Quantos andares tem aproximadamente a Torre Eiffel?",
+    "answers": [
+      "1) 10",
+      "2) 20",
+      "3) 3",
+      "4) 50"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "72. Quantos sinos existem no Big Ben?",
+    "answers": [
+      "1) 1",
+      "2) 3",
+      "3) 12",
+      "4) 5"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "73. Quantos quilometros possui a Muralha da China?",
+    "answers": [
+      "1) 21.000 km",
+      "2) 2.000 km",
+      "3) 8.000 km",
+      "4) 50.000 km"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "74. Quantos anos tinha Leonardo da Vinci quando morreu?",
+    "answers": [
+      "1) 47",
+      "2) 67",
+      "3) 87",
+      "4) 97"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "75. Quantos anos viveu, aproximadamente, Albert Einstein?",
+    "answers": [
+      "1) 56",
+      "2) 96",
+      "3) 76",
+      "4) 106"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "76. Quantos filhos teve Mozart?",
+    "answers": [
+      "1) 2",
+      "2) 4",
+      "3) 12",
+      "4) 6"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "77. Quantos anos tinha Napoleao quando morreu?",
+    "answers": [
+      "1) 51",
+      "2) 31",
+      "3) 71",
+      "4) 91"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "78. Quantos metros mede aproximadamente uma girafa recem-nascida?",
+    "answers": [
+      "1) 50 cm",
+      "2) 1,8 m",
+      "3) 3 m",
+      "4) 5 m"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "79. Quantas horas por dia um coala costuma dormir?",
+    "answers": [
+      "1) 6",
+      "2) 10",
+      "3) 18",
+      "4) 24"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "80. Quantos litros de mel uma colmeia forte pode produzir por ano?",
+    "answers": [
+      "1) 2 L",
+      "2) 10 L",
+      "3) 200 L",
+      "4) 45 L"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "81. Quantas vezes por segundo um beija-flor pode bater as asas?",
+    "answers": [
+      "1) 80",
+      "2) 5",
+      "3) 20",
+      "4) 300"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "82. Quantos metros pode alcancar o salto de uma pulga em relacao ao seu tamanho?",
+    "answers": [
+      "1) 10 vezes",
+      "2) 150 vezes",
+      "3) 50 vezes",
+      "4) 500 vezes"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "83. Quantos litros de refrigerante sao consumidos por segundo no mundo?",
+    "answers": [
+      "1) 100",
+      "2) 1.000",
+      "3) 10.000",
+      "4) 1.000.000"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "84. Quantos musculos aproximadamente utilizamos para sorrir?",
+    "answers": [
+      "1) 5",
+      "2) 50",
+      "3) 120",
+      "4) 17"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "85. Quantos quilometros de vasos sanguineos existem no corpo humano?",
+    "answers": [
+      "1) 100.000 km",
+      "2) 1.000 km",
+      "3) 10.000 km",
+      "4) 1.000.000 km"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "86. Quantas vezes o coracao humano bate por dia, em media?",
+    "answers": [
+      "1) 10.000",
+      "2) 100.000",
+      "3) 50.000",
+      "4) 500.000"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "87. Quantos fios de cabelo uma pessoa possui em media?",
+    "answers": [
+      "1) 10.000",
+      "2) 50.000",
+      "3) 100.000",
+      "4) 1.000.000"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "88. Quantos litros de saliva uma pessoa produz por dia?",
+    "answers": [
+      "1) 500 ml",
+      "2) 5 L",
+      "3) 20 L",
+      "4) 1,5 L"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "89. Quantos litros de ar respiramos por dia, aproximadamente?",
+    "answers": [
+      "1) 11.000 L",
+      "2) 500 L",
+      "3) 2.000 L",
+      "4) 100.000 L"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "90. Quantos quilometros por hora pode atingir um falcao-peregrino em mergulho?",
+    "answers": [
+      "1) 120 km/h",
+      "2) 390 km/h",
+      "3) 220 km/h",
+      "4) 700 km/h"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "91. Quantos metros mede aproximadamente a lingua de uma girafa?",
+    "answers": [
+      "1) 10 cm",
+      "2) 25 cm",
+      "3) 50 cm",
+      "4) 1 m"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "92. Quantos anos viveu, aproximadamente, a pessoa mais velha ja registrada?",
+    "answers": [
+      "1) 98",
+      "2) 110",
+      "3) 150",
+      "4) 122"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "93. Quantos quilometros quadrados tem aproximadamente o Brasil?",
+    "answers": [
+      "1) 8,5 milhoes",
+      "2) 2 milhoes",
+      "3) 5 milhoes",
+      "4) 15 milhoes"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "94. Quantos estados possui o Brasil?",
+    "answers": [
+      "1) 24",
+      "2) 26",
+      "3) 27",
+      "4) 28"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "95. Quantos municipios possui o Brasil aproximadamente?",
+    "answers": [
+      "1) 1.500",
+      "2) 3.000",
+      "3) 5.570",
+      "4) 10.000"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "96. Quantos quilometros tem aproximadamente o Rio Amazonas?",
+    "answers": [
+      "1) 2.000",
+      "2) 4.000",
+      "3) 12.000",
+      "4) 6.400"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "97. Quantos litros de agua passam pelas Cataratas do Iguacu por segundo?",
+    "answers": [
+      "1) 6.500",
+      "2) 500",
+      "3) 1.500",
+      "4) 50.000"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "98. Quantos metros de altura possui aproximadamente o Cristo Redentor com pedestal?",
+    "answers": [
+      "1) 20 m",
+      "2) 38 m",
+      "3) 80 m",
+      "4) 120 m"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "99. Quantos quilometros tem aproximadamente a Ponte Rio-Niteroi?",
+    "answers": [
+      "1) 3 km",
+      "2) 7 km",
+      "3) 13 km",
+      "4) 25 km"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "100. Quantos anos durou a construcao da Catedral de Notre-Dame de Paris?",
+    "answers": [
+      "1) 20",
+      "2) 50",
+      "3) 500",
+      "4) 182"
+    ],
+    "correct": 3
+  }
+]

@@ -1,0 +1,729 @@
+[
+  {
+    "question": "Qual e a saida de: printf(\"%d\", 5 + 3);",
+    "answers": [
+      "8"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual funcao usamos para imprimir na tela em C?",
+    "answers": [
+      "printf",
+      "printf()"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual tipo de dado armazena numeros inteiros em C?",
+    "answers": [
+      "int"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Em C, qual simbolo indica o final de uma instrucao?",
+    "answers": [
+      ";",
+      "ponto e virgula"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual palavra inicia a funcao principal de um programa em C?",
+    "answers": [
+      "main",
+      "main()"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual simbolo usamos para comentario de uma linha em C?",
+    "answers": [
+      "//"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual operador e usado para atribuicao em C?",
+    "answers": [
+      "="
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o tipo de dado para caracteres unicos em C?",
+    "answers": [
+      "char"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual funcao usamos para ler entrada do usuario em C?",
+    "answers": [
+      "scanf",
+      "scanf()"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o resultado de 10 / 3 em C (inteiros)?",
+    "answers": [
+      "3"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o operador logico E em C?",
+    "answers": [
+      "&&"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o operador logico OU em C?",
+    "answers": [
+      "||"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o operador logico NAO em C?",
+    "answers": [
+      "!"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual palavra-chave e usada para declarar uma constante em C?",
+    "answers": [
+      "const"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o valor padrao de uma variavel global nao inicializada em C?",
+    "answers": [
+      "0",
+      "zero"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o operador de incremento em C?",
+    "answers": [
+      "++"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o operador de decremento em C?",
+    "answers": [
+      "--"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual header e necessario para usar printf e scanf?",
+    "answers": [
+      "stdio.h"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o tipo de dado para numeros de ponto flutuante de precisao simples?",
+    "answers": [
+      "float"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual e o tipo de dado para numeros de ponto flutuante de precisao dupla?",
+    "answers": [
+      "double"
+    ],
+    "level": 1
+  },
+  {
+    "question": "Qual palavra-chave e usada para criar uma condicao?",
+    "answers": [
+      "if"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o resultado de: 2 + 2 * 3?",
+    "answers": [
+      "8"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual palavra-chave e usada para repetir codigo em C?",
+    "answers": [
+      "for",
+      "while",
+      "do"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual operador compara igualdade em C?",
+    "answers": [
+      "=="
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual palavra-chave sai de um loop em C?",
+    "answers": [
+      "break"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual palavra-chave pula para a proxima iteracao de um loop em C?",
+    "answers": [
+      "continue"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a sintaxe correta para um loop for?",
+    "answers": [
+      "for (init; cond; incr)"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a sintaxe correta para um loop while?",
+    "answers": [
+      "while (cond)"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a sintaxe correta para um loop do-while?",
+    "answers": [
+      "do { } while (cond);"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o tamanho em bytes de um int em um sistema de 32 bits?",
+    "answers": [
+      "4"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o tamanho em bytes de um char?",
+    "answers": [
+      "1"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o tamanho em bytes de um float?",
+    "answers": [
+      "4"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o tamanho em bytes de um double?",
+    "answers": [
+      "8"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para alocar memoria dinamicamente em C?",
+    "answers": [
+      "malloc",
+      "malloc()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para liberar memoria alocada dinamicamente em C?",
+    "answers": [
+      "free",
+      "free()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o operador para acessar membros de uma struct via ponteiro?",
+    "answers": [
+      "->"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o operador para acessar membros de uma struct diretamente?",
+    "answers": [
+      "."
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para comparar duas strings em C?",
+    "answers": [
+      "strcmp",
+      "strcmp()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para copiar uma string em C?",
+    "answers": [
+      "strcpy",
+      "strcpy()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para concatenar duas strings em C?",
+    "answers": [
+      "strcat",
+      "strcat()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para obter o comprimento de uma string em C?",
+    "answers": [
+      "strlen",
+      "strlen()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o valor de um ponteiro NULL?",
+    "answers": [
+      "0",
+      "NULL"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para converter string para inteiro?",
+    "answers": [
+      "atoi",
+      "atoi()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para converter string para float?",
+    "answers": [
+      "atof",
+      "atof()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para gerar numeros aleatorios em C?",
+    "answers": [
+      "rand",
+      "rand()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e a funcao para inicializar o gerador de numeros aleatorios?",
+    "answers": [
+      "srand",
+      "srand()"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o tipo de retorno de uma funcao que nao retorna valor?",
+    "answers": [
+      "void"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual palavra-chave e usada para retornar um valor de uma funcao?",
+    "answers": [
+      "return"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o operador de modulo em C?",
+    "answers": [
+      "%"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual e o operador de divisao inteira em C?",
+    "answers": [
+      "/"
+    ],
+    "level": 2
+  },
+  {
+    "question": "Qual operador usamos para obter o endereco de uma variavel?",
+    "answers": [
+      "&"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual palavra-chave define uma estrutura em C?",
+    "answers": [
+      "struct"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual operador ternario representa if-else em C?",
+    "answers": [
+      "?"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a diferenca entre um array e um ponteiro em C?",
+    "answers": [
+      "Array e um bloco de memoria contiguo, ponteiro armazena endereco"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Como se declara um ponteiro para uma funcao em C?",
+    "answers": [
+      "tipo (*nome)(parametros)"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a funcao para realocar memoria dinamicamente em C?",
+    "answers": [
+      "realloc",
+      "realloc()"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a funcao para alocar memoria e inicializa-la com zero?",
+    "answers": [
+      "calloc",
+      "calloc()"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a diferenca entre passagem por valor e passagem por referencia?",
+    "answers": [
+      "Valor copia, Referencia endereco"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e um ponteiro nulo?",
+    "answers": [
+      "Ponteiro que nao aponta para nenhum local valido"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e um ponteiro void?",
+    "answers": [
+      "Ponteiro generico que pode apontar para qualquer tipo"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a funcao para abrir um arquivo em C?",
+    "answers": [
+      "fopen",
+      "fopen()"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a funcao para fechar um arquivo em C?",
+    "answers": [
+      "fclose",
+      "fclose()"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a funcao para escrever em um arquivo formatado?",
+    "answers": [
+      "fprintf",
+      "fprintf()"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e a funcao para ler de um arquivo formatado?",
+    "answers": [
+      "fscanf",
+      "fscanf()"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e o pre-processador em C?",
+    "answers": [
+      "Fase de compilacao que processa diretivas como #include e #define"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual a diretiva para incluir um arquivo de cabecalho?",
+    "answers": [
+      "#include"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual a diretiva para definir uma macro?",
+    "answers": [
+      "#define"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e um typedef em C?",
+    "answers": [
+      "Permite criar um alias para um tipo existente"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual a diferenca entre 'a' e \"a\" em C?",
+    "answers": [
+      "'a' e char, \"a\" e string/char*"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e um union em C?",
+    "answers": [
+      "Permite armazenar diferentes tipos de dados no mesmo local de memoria"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual a palavra-chave para um tipo enumerado?",
+    "answers": [
+      "enum"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e um bitwise operator?",
+    "answers": [
+      "Operador que manipula bits individuais"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e o operador bitwise AND?",
+    "answers": [
+      "&"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e o operador bitwise OR?",
+    "answers": [
+      "|"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e o operador bitwise XOR?",
+    "answers": [
+      "^"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e o operador bitwise NOT?",
+    "answers": [
+      "~"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e o operador bitwise left shift?",
+    "answers": [
+      "<<"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual e o operador bitwise right shift?",
+    "answers": [
+      ">>"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e um ponteiro para ponteiro?",
+    "answers": [
+      "Variavel que armazena o endereco de outro ponteiro"
+    ],
+    "level": 3
+  },
+  {
+    "question": "Qual a funcao para definir o locale do programa?",
+    "answers": [
+      "setlocale",
+      "setlocale()"
+    ],
+    "level": 3
+  },
+  {
+    "question": "O que e um dangling pointer?",
+    "answers": [
+      "Ponteiro que aponta para uma memoria que foi liberada"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e um memory leak?",
+    "answers": [
+      "Memoria alocada dinamicamente que nao foi liberada"
+    ],
+    "level": 4
+  },
+  {
+    "question": "Qual a diferenca entre const char* p e char* const p?",
+    "answers": [
+      "Primeiro: ponteiro para char constante. Segundo: ponteiro constante para char"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e o volatile keyword em C?",
+    "answers": [
+      "Indica que o valor de uma variavel pode ser alterado por algo externo ao programa"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e o extern keyword em C?",
+    "answers": [
+      "Declara uma variavel global definida em outro arquivo"
+    ],
+    "level": 4
+  },
+  {
+    "question": "Qual a diferenca entre #include <file.h> e #include \"file.h\"?",
+    "answers": [
+      "<> busca em diretorios padrao, \"\" busca no diretorio atual"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e um makefile?",
+    "answers": [
+      "Arquivo que automatiza o processo de compilacao e linkagem"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e um segfault?",
+    "answers": [
+      "Erro de acesso a memoria invalida"
+    ],
+    "level": 4
+  },
+  {
+    "question": "Como evitar buffer overflow?",
+    "answers": [
+      "Usar funcoes seguras como snprintf, strncpy, fgets"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e um array de ponteiros para caracteres?",
+    "answers": [
+      "Um array onde cada elemento e um ponteiro para uma string"
+    ],
+    "level": 4
+  },
+  {
+    "question": "Qual a funcao para sair do programa em C?",
+    "answers": [
+      "exit",
+      "exit()"
+    ],
+    "level": 4
+  },
+  {
+    "question": "Qual a funcao para manipular sinais em C?",
+    "answers": [
+      "signal",
+      "signal()"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e um registrador?",
+    "answers": [
+      "Pequena area de armazenamento de alta velocidade na CPU"
+    ],
+    "level": 4
+  },
+  {
+    "question": "Qual a diferenca entre stack e heap?",
+    "answers": [
+      "Stack: alocacao automatica, Heap: alocacao dinamica"
+    ],
+    "level": 4
+  },
+  {
+    "question": "O que e um macro com argumentos?",
+    "answers": [
+      "Macro que aceita parametros e os substitui no codigo"
+    ],
+    "level": 4
+  },
+  {
+    "question": "Explique o conceito de Undefined Behavior em C.",
+    "answers": [
+      "Comportamento nao especificado pela norma C, pode variar entre compiladores"
+    ],
+    "level": 5
+  },
+  {
+    "question": "Como implementar um array dinamico em C?",
+    "answers": [
+      "Usando malloc/realloc para gerenciar o tamanho do array em tempo de execucao"
+    ],
+    "level": 5
+  },
+  {
+    "question": "Qual a diferenca entre fork() e exec() em sistemas Unix-like?",
+    "answers": [
+      "fork cria processo filho, exec substitui processo atual"
+    ],
+    "level": 5
+  },
+  {
+    "question": "O que e um mutex e para que serve em programacao concorrente?",
+    "answers": [
+      "Mecanismo de sincronizacao para proteger secoes criticas de acesso concorrente"
+    ],
+    "level": 5
+  },
+  {
+    "question": "Descreva o ciclo de vida de um programa C (compilacao, linkagem, execucao).",
+    "answers": [
+      "Pre-processamento, Compilacao, Montagem, Linkagem, Carregamento, Execucao"
+    ],
+    "level": 5
+  }
+]
